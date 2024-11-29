@@ -1,0 +1,40 @@
+.progress-bar-vertical{
+    width: 10px;
+    min-height: 50px;
+ 
+    
+ } 
+ .pb{
+    display: flex;
+
+ }  
+ .progress-bar-vertical1{
+    width: 20px;
+    min-height: 50px;   
+ }   
+ .progress-bar-vertical2{
+    width: 20px;
+    min-height: 80px;   
+ }
+ .progress-bar-vertical3{
+    width: 20px;
+    min-height: 100px;   
+ }
+ .progress-bar-vertical4{
+    width: 20px;
+    min-height: 130px;   
+ }
+ .progress-bar-vertical5{
+    width: 20px;
+    min-height: 90px;   
+ }
+ .progress-bar-vertical6{
+    width: 20px;
+    min-height: 110px;   
+ }
+ .progress-bar-vertical7{
+    width: 20px;
+    min-height: 150px;   
+ }
+
+
